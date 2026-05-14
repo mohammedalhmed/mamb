@@ -1,9 +1,9 @@
 {
     "name": {
-        "ar": "رائد",
-        "en": "Theme Raed"
+        "ar": "بيلابوكس",
+        "en": "BellaBox"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
+    "repository": "https://github.com/mohammedalhmed/mamb",
     "author_email": "support@salla.sa",
     "features": [
         "mega-menu",

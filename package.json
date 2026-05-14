@@ -1,11 +1,11 @@
 {
-  "name": "theme-raed",
+  "name": "bellabox-theme",
   "version": "1.0.3",
-  "description": "Salla Theme",
+  "description": "BellaBox - A professional and elegant theme for beauty and cosmetics stores on Salla platform",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SallaApp/theme-raed.git"
+    "url": "git+https://github.com/mohammedalhmed/mamb.git"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
